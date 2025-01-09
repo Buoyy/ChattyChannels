@@ -1,0 +1,7 @@
+name: Chatty
+version: 0.1
+main: com.github.buoyy.chatty.Chatty
+commands:
+  ccreate:
+    description: Creates a channel
+    usage: /<command>
